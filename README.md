@@ -1,4 +1,4 @@
-# My-classwork-repository
+# Charlie Cao's ICS3U classwork
 
 Why did you take this course and what are you hoping to get out of it?
 I'm taking this course because I want to study computer science. I think it's an interesting subject. 
